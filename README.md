@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 📫 How to reach me **ksushavin15@gmail.com**
+- 📫 How to reach me **ksu.gitconto@gmail.com**
 
 - ⚡ Fun fact **I have no talent for singing :)**
 
