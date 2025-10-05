@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ksushavin&show_icons=true&locale=en" alt="ksushavin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ksushavin&" alt="ksushavin" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roksana-fullstack&" alt="roksana-fullstack" /></p>
